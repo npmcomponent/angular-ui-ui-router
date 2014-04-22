@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [angular-ui/ui-router](http://github.com/angular-ui/ui-router). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/angular-ui-ui-router`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # AngularUI Router &nbsp;[![Build Status](https://travis-ci.org/angular-ui/ui-router.png?branch=master)](https://travis-ci.org/angular-ui/ui-router)
 
 #### The de-facto solution to flexible routing with nested views
